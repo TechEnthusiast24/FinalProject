@@ -19335,6 +19335,7 @@ h3.title-style {
   animation-iteration-count: infinite;
   animation: rotation 10s linear infinite;
   overflow: hidden;
+  border-radius: 33vh;
 }
 
 @keyframes rotation {

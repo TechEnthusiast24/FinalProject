@@ -44,9 +44,6 @@ Welcome to our healthy Salad Recipes website, where health meets flavor in a bow
 
 
 
-
-
-# TEAM: 
 ## DHANANJAY KUMAR : 200305105257@paruluniversity.ac.in
 
 
